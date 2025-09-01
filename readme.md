@@ -1,7 +1,8 @@
 <br>
 <p  align="center">
 <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
-<em><b>Hi there, I'm Rishik Reddy! 👋</b></em><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<em><b>Hi there, I'm Rishik Reddy! 👋</b></em>
+<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
 
 </p>
 
@@ -10,8 +11,8 @@
 
 ---
 
-<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
-<p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a></em></p>
+
+<p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a></em></p><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 
 
 [![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
