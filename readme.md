@@ -2,7 +2,9 @@
 <br>
 <p  align="center">
 <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
-<em><b>Hi there, I'm Rishik Reddy! 👋</b></em>
+[![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
+[![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
+[![LinkedIn: Rishik-Reddy](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
 </p>
 
 <br>
@@ -10,9 +12,7 @@
 
 ---
 
-[![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
-[![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
-[![LinkedIn: Rishik-Reddy](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
+
 
 
 
