@@ -1,3 +1,4 @@
+<h1>Hi there, I'm Rishik Reddy! 👋</h1>
 <br>
 <p  align="center">
 <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
