@@ -1,9 +1,7 @@
 <br>
 <p  align="center">
 <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
-<p align="center">
-  <span style="font-size:32px;"><em><b>Hi there, I'm Rishik Reddy! 👋</b></em></span>
-</p>
+<p style="font-size:30;"><b>Hi there, I'm Rishik Reddy! 👋</b></p>
 
 </p>
 
