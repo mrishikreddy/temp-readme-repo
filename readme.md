@@ -9,10 +9,6 @@
 
 ---
 
-
-<p><em>Research Assistant @ TauGroup | SDE Intern @ Amazon | Software Development Engineer at <a href="https://www.oyorooms.com/">OYO</a></em></p><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-
-
 [![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
 [![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
 [![LinkedIn: Rishik-Reddy](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
