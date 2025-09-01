@@ -2,8 +2,6 @@
 <p  align="center">
 <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
 <em><b>Hi there, I'm Rishik Reddy! 👋</b></em>
-<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
-
 </p>
 
 <br>
