@@ -1,18 +1,21 @@
-<h1>Hi there, I'm Rishik Reddy! 👋</h1>
 <br>
-<p  align="center">
-<img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
-  
-[![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
-[![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
-[![LinkedIn: Rishik-Reddy](https://img.shields.io/badge/-rishik--reddy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
-</p>
+<div align="center">
+  <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
+  <h3>Hi there, I'm Rishik Reddy! 👋</h3>
+</div>
 
 <br>
 <br>
 
 ---
 
+<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
+<p><em>Computer Science Student</em></p>
+
+
+[![Site rishik.tech](https://img.shields.io/badge/do%20visit-rishik.tech-informational)](https://www.rishik.tech/)
+[![GitHub MRishikReddy](https://img.shields.io/github/followers/MRishikReddy?label=follow&style=social)](https://github.com/MRishikReddy)
+[![LinkedIn: rishikreddym](https://img.shields.io/badge/-rishikreddym-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishikreddym/)](https://www.linkedin.com/in/rishikreddym/)
 
 
 
@@ -76,7 +79,7 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="https://drive.google.com/file/d/1LfjyjA3m7D2NXzGLc47e5sz26REtSYJ9/view">
+    <a href="https://drive.google.com/file/d/1aZpeSNGtRp9e6Xm_WVjevEfBYLlTRWtM/view?usp=sharing">
       <strong>📄 Resume</strong>
     </a>
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,18 +91,8 @@ Developed a Python-based Tic Tac Toe game featuring an AI opponent that uses dec
   </span>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <span>
-    <a href="https://leetcode.com/u/Rishik_Reddy/">
+    <a href="https://leetcode.com/u/ghostrr7/">
       <strong>🧠 LeetCode</strong>
     </a>
   </span>
 </p>
-
----
-
-<em><b>I love connecting with different people</b> so if you want to drop a <b>hi!, or discuss a project, my inbox is always open!</b> :)</em><img align="right" src="https://media.giphy.com/media/EuoHwFsVY3w6BMmfhM/giphy.gif" width="80"/> 
-
-<br>
-
-
----
-
